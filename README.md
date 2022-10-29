@@ -2,5 +2,5 @@
 ---
 
 
-A compilation of my ML activities for COE-005
+A compilation of ML activities for COE-005
 
